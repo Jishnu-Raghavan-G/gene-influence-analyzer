@@ -1,0 +1,11 @@
+sample_id,gene,expression,condition
+S1,TP53,5.2,healthy
+S2,TP53,6.5,disease
+S3,BRCA1,3.1,disease
+S4,BRCA1,4.0,healthy
+S5,MYC,7.5,disease
+S6,MYC,6.8,disease
+S7,EGFR,2.2,healthy
+S8,EGFR,2.5,healthy
+S9,PTEN,4.8,healthy
+S10,PTEN,5.0,disease
